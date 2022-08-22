@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TamashaApp</string>
+    <string name="error">Oops! There seems to be an error. Please swipe down to refresh!</string>
+</resources>
